@@ -1,7 +1,5 @@
 # Dilution Refrigerator Simulation
 
-![Systemöversikt](System.png)
-
 Detta projekt är genomfört som en del av ett kandidatarbete vid Chalmers tekniska högskola, Institutionen för Mekanik och Maritima Vetenskaper.
 
 Projektets syfte är att modellera och simulera ett utspädningskylskåp (dilution refrigerator), ett avancerat kylsystem som används för att uppnå extremt låga temperaturer inom bland annat kvantteknologi och lågtemperaturfysik.
