@@ -14,3 +14,5 @@ Syftet med projektet är att:
 ##  Struktur
 
 Projektet är uppdelat enligt följande:
+
+pip install -r requirements.txtpython main.py
