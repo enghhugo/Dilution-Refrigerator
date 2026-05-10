@@ -32,6 +32,8 @@ DR/
 │
 ├── DR_sim.ipynb
 │
+├── Figur/
+│
 ├── DR_OOP/
 │   ├── __init__.py
 │   ├── komponenter.py
