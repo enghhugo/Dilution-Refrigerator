@@ -9,7 +9,7 @@ Projektet syftar till att modellera och simulera ett utspädningskylare (dilutio
 ## Syfte
 
 Syftet med projektet är att:
-- Modellera och simulera ett utspädningskylskåp
+- Modellera och simulera en utspädningskylare
 - Analysera systemets termiska beteende
 - Undersöka skalningsproblem och begränsningar i systemets prestanda
 
