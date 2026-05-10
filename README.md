@@ -2,7 +2,7 @@
 
 Detta projekt är genomfört som en del av ett kandidatarbete vid Chalmers tekniska högskola, Institutionen för Mekanik och Maritima Vetenskaper.
 
-Projektet syftar till att modellera och simulera ett utspädningskylskåp (dilution refrigerator), ett avancerat kylsystem som används för att uppnå extremt låga temperaturer inom bland annat kvantteknologi och lågtemperaturfysik.
+Projektet syftar till att modellera och simulera ett utspädningskylare (dilution refrigerator), ett avancerat kylsystem som används för att uppnå extremt låga temperaturer inom bland annat kvantteknologi och lågtemperaturfysik.
 
 ---
 
