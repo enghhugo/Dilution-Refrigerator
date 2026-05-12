@@ -68,8 +68,6 @@ class Blandningskammare:
 
             X_t(T) = 0.0648 · (1 + 8.4·T² + 9.4·T³)
 
-        När molfraktionen når 6,6 % blir lösningen mättad.
-
         Parametrar
         ----------
         T : float  Temperatur  [K]
@@ -80,11 +78,8 @@ class Blandningskammare:
         """
 
         x = 0.0648 * (1.0 + 8.4 * T**2 + 9.4 * T**3)
-
-        if x > 0.066:
-            return 0.066
-        else: 
-            return x
+ 
+        return x
     
 
     def _H3_utspädd(self, T: float, tabeller: TermiskData = standardtabeller) -> float:
