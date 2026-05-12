@@ -31,6 +31,7 @@ Modellen är implementerad i Python med en objektorienterad struktur för att se
 DR/
 │
 ├── DR_sim.ipynb
+├── Destillator till pump.ipynb
 │
 ├── Figur/
 │
@@ -58,6 +59,9 @@ DR/
 
 - **DR_sim.ipynb**  
   Huvudnotebook där simulering, analys och visualisering utförs.
+  
+- **DR_sim.ipynb**
+  Notebook för separat analys av ett specifikt delsystem destillator och rör till pumpen från destillatorn i utspädningskylaren. Används för att    undersöka delsystemets begränsningar utan att hela systemet begränsar den.
 
 - **DR_OOP/**
   - `komponenter.py` – Implementation av systemets fysiska komponenter och modell
