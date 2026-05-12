@@ -57,10 +57,12 @@ DR/
 
 ## Projektstruktur
 
-- **DR_sim.ipynb**  
+- **DR_sim.ipynb**
+  
   Huvudnotebook där simulering, analys och visualisering utförs.
   
 - **DR_sim.ipynb**
+  
   Notebook för separat analys av ett specifikt delsystem destillator och rör till pumpen från destillatorn i utspädningskylaren. Används för att    undersöka delsystemets begränsningar utan att hela systemet begränsar den.
 
 - **DR_OOP/**
@@ -68,7 +70,8 @@ DR/
   - `konstanter.py` – Fysiska konstanter som används i simuleringen
   - `termiskdata.py` – Hantering av termodynamiska och experimentella data
 
-- **data/**  
+- **data/**
+  
   Innehåller tabeller och experimentella data som används i modellen
 
 ---
