@@ -31,6 +31,7 @@ Modellen är implementerad i Python med en objektorienterad struktur för att se
 DR/
 │
 ├── DR_sim.ipynb
+│
 ├── Destillator till pump.ipynb
 │
 ├── Figur/
