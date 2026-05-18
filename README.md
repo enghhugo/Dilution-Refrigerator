@@ -93,7 +93,12 @@ Simuleringen används för att analysera kylsystemets temperaturutveckling och i
 
 En mer detaljerad beskrivning av teori, metod och resultat finns i den tillhörande rapporten:
 
-**Länk: [lägg in här]**
+---
+
+## Länk: 
+
+[Modellering av utspädningskylare.pdf](https://github.com/user-attachments/files/27955599/Modellering.av.utspadningskylare.pdf)
+
 
 ---
 
