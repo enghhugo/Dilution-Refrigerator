@@ -5,6 +5,10 @@ Detta projekt är genomfört som en del av ett kandidatarbete vid Chalmers tekni
 Projektet syftar till att modellera och simulera ett utspädningskylare (dilution refrigerator), ett avancerat kylsystem som används för att uppnå extremt låga temperaturer inom bland annat kvantteknologi och lågtemperaturfysik.
 
 ---
+## OBS! Kapitza resisstiviteten har råkats modelleras i kvadrat 
+I huvudkoden har kapitzaresistiviteten råkats inkluderats 2 gånger vilket ger en värmeväxlare med sämre radiell värmeledning är än tänkt. De ger att vi har kapitzaresistivitet proportionellt mot T^-6 istället för T^-3 vilket har påverkan på våra resultat. 
+
+
 
 ## Syfte
 
