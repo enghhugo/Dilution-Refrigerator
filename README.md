@@ -6,7 +6,7 @@ Projektet syftar till att modellera och simulera ett utspädningskylare (dilutio
 
 ---
 ## OBS! Kapitza resisstiviteten har råkats modelleras i kvadrat 
-I huvudkoden har kapitzaresistiviteten råkats inkluderats 2 gånger vilket ger en värmeväxlare med sämre radiell värmeledning är än tänkt. De ger att vi har kapitzaresistivitet proportionellt mot T^-6 istället för T^-3 vilket har påverkan på våra resultat. 
+I huvudkoden har kapitzaresistiviteten råkats inkluderats 2 gånger vilket ger en värmeväxlare med sämre radiell värmeledning än tänkt. De ger att vi har kapitzaresistivitet proportionellt mot T^-6 istället för T^-3 vilket har påverkan på våra resultat. 
 
 
 
